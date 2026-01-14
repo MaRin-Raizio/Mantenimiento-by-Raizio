@@ -1,28 +1,23 @@
-\# 🛠️ Mantenimiento de Windows by Raizio
+# 🌱 Mentum
 
+**Mentum** es una herramienta de mantenimiento para Windows 10 y 11, diseñada para mantener tu sistema **fresco, limpio y funcionando al máximo rendimiento**.
 
+## ✨ Características principales
+- Reparación rápida (SFC + DISM básico)
+- Escaneo profundo y reparación de imagen
+- Limpieza de componentes y archivos temporales
+- Optimización de disco y revisión de sectores
+- Reinicio de configuración de red
+- Información detallada del sistema (OS, CPU, RAM, espacio libre en disco)
+- Menú bilingüe (Español / English)
+- Logging global automático en cada ejecución
 
-\*\*Versión actual:\*\* v1.2.3  
+## 🎯 Filosofía
+El nombre **Mentum** proviene del latín *-mentum*, que significa acción, efecto o proceso.  
+Suena a “menta”, evocando frescura y revitalización, justo lo que se busca al darle mantenimiento al sistema.  
 
-\*\*Autor:\*\* Raizio
-
-
-
----
-
-
-
-\## 📖 Descripción general
-
-
-
-\*Mantenimiento de Windows by Raizio\* es un script en \*\*Batch (.bat)\*\* diseñado para facilitar tareas de diagnóstico y optimización en sistemas Windows.  
-
-Su objetivo es ofrecer una herramienta sencilla y confiable para mantener el sistema en buen estado, con un menú claro y opciones automatizadas que ahorran tiempo al usuario.
-
-
-
----
+## 🚀 Slogan
+**Mentum — Mantén tu Windows fresco y funcionando**
 
 
 
