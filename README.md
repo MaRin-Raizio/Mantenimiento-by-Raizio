@@ -6,7 +6,7 @@ Nació como un script en `.bat`, y ahora también está disponible en formato `.
 ---
 
 ## 🚀 Descarga
-- Si quieres **usar el Launcher directamente**, descarga el archivo `.exe` desde la sección [Releases](https://github.com/TUUSUARIO/TUREPO/releases).  
+- Si quieres **usar el Launcher directamente**, descarga el archivo `.exe` desde la sección [Releases](https://github.com/MaRin-Raizio/Mentum-by-Raizio/releases).  
 - Si quieres **revisar el código fuente**, descarga el *Source code (zip)* o usa el `.bat` incluido en este repositorio.
 
 ---
